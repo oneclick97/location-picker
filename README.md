@@ -9,3 +9,8 @@
 The recommended way to launch project is with Docker:
 
 `docker-compose up -d`
+
+### Environment
+Please add your machine to to the backend `.env`:
+
+**`DATABASE_HOST`**
